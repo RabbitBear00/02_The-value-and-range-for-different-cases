@@ -1,5 +1,6 @@
 8/4/2021
-A self thought problem
+A self thought problem<br />
+First project made using python
 
 #Background and defining the problem
 <img src = "images/question.png">
