@@ -30,24 +30,23 @@ Then I wrote two global variables, max_value_loop to control the maximum value o
 
 That's about it.
 
-#IPO
-Input:
-How many cases do you split? -- count
-String of case num 1? -- case_name[0]
-...(repeat for count times)
-How many ppl do you want in each case? --case_count[0]
-...(repeat for count times)
-
-*should check the total of every element in case_count shouldnt exceed *(O didnt do this function :p, lazy)
-
-Process:
-1)Store inputs
-2)Do some loops
-3)sort
-4)split into n cases
-5)If condition(end of a array doesnt equals to start of a array) met, generate solution
-
-Output:
-With value value[0], value[1], value[2],
-There will be case_count[0] people in case_name[0] with range...
-...
+#IPO<br />
+Input:<br />
+How many cases do you split? -- count<br />
+String of case num 1? -- case_name[0]<br />
+...(repeat for count times)<br />
+How many ppl do you want in each case? --case_count[0]<br />
+...(repeat for count times)<br />
+<br />
+*should check the total of every element in case_count shouldnt exceed *(O didnt do this function :p, lazy)<br />
+<br />
+Process:<br />
+1)Store inputs<br />
+2)Do some loops<br />
+3)sort<br />
+4)split into n cases<br />
+5)If condition(end of a array doesnt equals to start of a array) met, generate solution<br />
+<br />
+Output:<br />
+With value value[0], value[1], value[2],<br />
+There will be case_count[0] people in case_name[0] with range...<br />
